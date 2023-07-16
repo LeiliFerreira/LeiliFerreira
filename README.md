@@ -8,7 +8,7 @@ Olá mundo! Eu sou a Leiliane👋🏻💜
 
 <div align="center">
   <a href="https://github.com/LeiliFerreira"> 
-  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeilianeDev1711&layout=compact&langs_count=7&theme=jolly"/>
+  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeiliFerreira&layout=compact&langs_count=7&theme=jolly"/>
 </div>
   
 <div style="display: inline_block"><br>
