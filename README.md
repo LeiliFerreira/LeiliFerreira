@@ -7,7 +7,7 @@ Olá mundo! Eu sou a Leiliane👋🏻💜
 - 📩 Contate-me no email: leilianeferreira53@gmail.com
 
 <div align="center">
-  <a href="https://github.com/LeilianeDev1711"> 
+  <a href="https://github.com/LeiliFerreira"> 
   <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeilianeDev1711&layout=compact&langs_count=7&theme=jolly"/>
 </div>
   
