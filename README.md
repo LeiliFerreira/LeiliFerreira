@@ -3,7 +3,7 @@ Olá mundo! Eu sou a Leiliane👋🏻💜
 - 🎓 Atualmente curso Análise e Desenvolvimento de Sistemas na Faculdade CDL
 - 🤖 Minha jornada na programação começou atráves da robótica educacional com Arduino
 - 😎 Conhecimento em: Python; HTML; CSS; Java; JavaScript, C, C++, C#, Figma, MySql, Flutter
-- 📚 Estudando atualmente: Desenvolvimento mobile com Java e Flutter
+- 📚 Estudando atualmente: Desenvolvimento Mobile com Java e Flutter
 - 📩 Contate-me no email: leilianeferreira53@gmail.com
 
 <div align="center">
