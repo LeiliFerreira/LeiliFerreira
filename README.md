@@ -1,9 +1,9 @@
 Olá mundo! Eu sou a Leiliane👋🏻💜
 
-- 🎓 Graduada em Análise e Desenvolvimento de Sistemas pela Faculdade CDL
-- 🤖 Minha jornada na programação começou atráves da robótica educacional com Arduino
-- 😎 Conhecimento em: Python; HTML; CSS; Java; JavaScript, C, C++, MySql, SQLite, Flutter, Dart
-- 📚 Estudando atualmente: Desenvolvimento Mobile e Prototipagem de Softwares com Figma
+- 🎓 Graduada em Análise e Desenvolvimento de Sistemas
+- 🎓 Cursando Pós-Graduação em Projetos de Aplicativos Móveis Multiplataforma
+- 🤖 Minha jornada na tecnologia começou atráves da robótica educacional com Arduino
+- 📚 Estudando atualmente: Desenvolvimento Mobile e Prototipagem de Softwares 
 - 📩 Contate-me no email: leilianeferreira53@gmail.com
 
 <div align="center">
