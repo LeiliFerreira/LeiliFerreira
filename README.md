@@ -1,4 +1,4 @@
-Olá mundo! Eu sou a Leiliane👋🏻💜
+Olá mundo! Eu sou a Leiliane👋🏻🤓
 
 - 🎓 Graduada em Análise e Desenvolvimento de Sistemas
 - 🎓 Cursando Pós-Graduação em Projetos de Aplicativos Móveis Multiplataforma
