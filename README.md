@@ -3,7 +3,7 @@ Olá mundo! Eu sou a Leiliane👋🏻🤓
 - 🎓 Graduada em Análise e Desenvolvimento de Sistemas
 - 🎓 Cursando Pós-Graduação em Projetos de Aplicativos Móveis Multiplataforma
 - 🤖 Minha jornada na tecnologia começou atráves da robótica educacional com Arduino
-- 📚 Estudando atualmente: Desenvolvimento Mobile e Prototipagem de Softwares 
+- 📚 Estudando atualmente: Desenvolvimento Mobile
 - 📩 Contate-me no email: leilianeferreira53@gmail.com
 
 <div align="center">
