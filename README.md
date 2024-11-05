@@ -1,9 +1,10 @@
 Olá mundo! Eu sou a Leiliane👋🏻🤓
 
+- 🎓 Cursando Pós-graduação em User Experience(UX) e User Interface(UI)
+- 🎓 Pós-graduada em Projetos de Aplicativos Móveis Multiplataforma
 - 🎓 Graduada em Análise e Desenvolvimento de Sistemas
-- 🎓 Cursando Pós-Graduação em Projetos de Aplicativos Móveis Multiplataforma
 - 🤖 Minha jornada na tecnologia começou atráves da robótica educacional com Arduino
-- 📚 Estudando atualmente: Desenvolvimento Mobile
+- 📚 Estudando atualmente: Design de interfaces focadas em experiência de usuário
 - 📩 Contate-me no email: leilianeferreira53@gmail.com
 
 <div align="center">
